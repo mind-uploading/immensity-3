@@ -1,0 +1,9 @@
+tensorflow
+Pillow
+numpy
+pandas
+minisom
+matplotlib
+opencv-python
+scipy
+pyautogui

@@ -1,0 +1,1 @@
+参考和调用 https://github.com/EverlastingAI-Official/LifeContextOS 的工作和格式
